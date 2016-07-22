@@ -1,0 +1,9 @@
+p {
+  width: 500px;
+}
+
+canvas {
+  border: 1px solid #aaa;
+  height: 500px;
+  width: 500px;
+}
